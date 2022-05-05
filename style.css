@@ -41,6 +41,7 @@ nav a:visited, nav a {
     color:darkgreen;
     text-decoration: none;
     font-weight: bold;
+    white-space: nowrap;
 }
 
 section {
