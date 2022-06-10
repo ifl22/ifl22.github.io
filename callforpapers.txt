@@ -1,0 +1,71 @@
+# CALL FOR PAPERS - The 34th Symposium on Implementation and Application of Functional Languages
+
+## Important dates
+
+Draft paper submission:    7th of August 2022
+Draft paper notification:  9th of August 2022
+Registration deadline:    12th of August 2022
+Symposium:                31th of August to 2nd of September
+
+## Scope
+
+The goal of the IFL symposia is to bring together researchers actively
+engaged in the implementation and application of functional and
+function-based programming languages. IFL 2022 will be a venue for
+researchers to present and discuss new ideas and concepts, work in
+progress, and publication-ripe results related to the implementation
+and application of functional languages and function-based
+programming.
+
+Topics of interest to IFL include, but are not limited to:
+
+* language concepts
+* type systems, type checking, type inferencing
+* compilation techniques
+* staged compilation
+* run-time function specialization
+* run-time code generation
+* partial evaluation
+* abstract interpretation
+* metaprogramming
+* generic programming
+* automatic program generation
+* array processing
+* concurrent/parallel programming
+* concurrent/parallel program execution
+* embedded systems
+* web applications
+* embedded domain specific languages
+* security
+* novel memory management techniques
+* run-time profiling performance measurements
+* debugging and tracing
+* virtual/abstract machine architectures
+* validation, verification of functional programs
+* tools and programming techniques
+* industrial applications
+
+## Submissions and peer-review
+
+Following IFL tradition, IFL 2022 will use a post-symposium review
+process to produce the formal proceedings.
+
+Before the symposium authors submit draft papers. These draft papers
+will be screened by the program chair to make sure that they are
+within the scope of IFL. The draft papers will be made available to
+all participants at the symposium. Each draft paper is presented by
+one of the authors at the symposium.
+
+After the symposium, a formal review process will take place,
+conducted by the program committee.  Reviewing is single blind. There
+will be at least 3 reviews per paper. The reviewers have 6 weeks to
+write their reviews. For the camera-ready version the authors can make
+minor revisions which are accepted without further reviewing.
+
+## Where
+
+IFL 2022 will be held physically in Copenhagen, Denmark, arranged by
+DIKU at the University of Copenhagen.
+
+See the IFL 2022 website at https://ifl22.github.io/ for more
+information.
