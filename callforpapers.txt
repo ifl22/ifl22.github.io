@@ -1,4 +1,4 @@
-# CALL FOR PAPERS - The 34th Symposium on Implementation and Application of Functional Languages
+# CALL FOR PAPERS - The 34th Symposium on Implementation and Application of Functional Languages (IFL 2022)
 
 ## Important dates
 
