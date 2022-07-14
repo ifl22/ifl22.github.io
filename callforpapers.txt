@@ -1,4 +1,4 @@
-# CALL FOR PAPERS: 
+# CALL FOR PAPERS:
 
 The 34th Symposium on Implementation and Application of Functional Languages (IFL 2022)
 
@@ -59,13 +59,18 @@ Before the symposium authors submit draft papers. These draft papers
 will be screened by the program chair to make sure that they are
 within the scope of IFL. The draft papers will be made available to
 all participants at the symposium. Each draft paper is presented by
-one of the authors at the symposium.
+one of the authors at the symposium. Notice that it is a requirement
+that accepted draft papers are presented physically at the symposium.
 
 After the symposium, a formal review process will take place,
 conducted by the program committee.  Reviewing is single blind. There
 will be at least 3 reviews per paper. The reviewers have 6 weeks to
 write their reviews. For the camera-ready version the authors can make
 minor revisions which are accepted without further reviewing.
+
+Contributions submitted for the draft paper deadline must be between
+two and twelve pages long. For submission details, please consult the
+IFL 2022 website at https://ifl22.github.io/ .
 
 ## Where
 
