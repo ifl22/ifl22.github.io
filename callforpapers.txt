@@ -1,11 +1,16 @@
-# CALL FOR PAPERS - The 34th Symposium on Implementation and Application of Functional Languages (IFL 2022)
+# CALL FOR PAPERS: 
+
+The 34th Symposium on Implementation and Application of Functional Languages (IFL 2022)
+
+Copenhagen, August 31st-September 2nd, 2022
 
 ## Important dates
 
-Draft paper submission:    7th of August 2022
-Draft paper notification:  9th of August 2022
-Registration deadline:    12th of August 2022
-Symposium:                31th of August to 2nd of September
+Draft paper submission:      August 7th, 2022
+Draft paper notification:    August 9th, 2022
+Early registration deadline: August 12th, 2022
+Late registration deadline:  September 2nd, 2022
+Symposium:                   August 31st-Septmber 2nd, 2022 (3 days)
 
 ## Scope
 
