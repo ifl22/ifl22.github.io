@@ -1,0 +1,194 @@
+		    -----------------------------
+	     C A L L   F O R   P A R T I C I P A T I O N
+		    -----------------------------
+
+		    ======== IFL 2022 ===========
+
+       The 34th Symposium on Implementation and Application of
+			 Functional Languages
+		    August 31 - September 2, 2022
+		  University of Copenhagen, Denmark
+		       https://ifl22.github.io/
+
+The goal of IFL is to bring together researchers and developers
+actively engaged in the implementation and application of functional
+programming languages and function-oriented programming. IFL 2022 is
+held in beautiful Copenhagen, Denmark and is a venue for researchers
+to present and discuss new ideas and concepts, work in progress, and
+publication-ripe results related to the implementation and application
+of functional programming languages and function-oriented programming.
+
+== INVITED SPEAKERS ==
+
+IFL 2022 is pleased to announce keynote talks by the following three
+invited speakers:
+
+* Peter Sestoft, Professor, Head of Department, IT University of
+  Copenhagen, Denmark: "Abstract machines and functional language
+  implementation"
+
+* Lennart Augustsson, Principal Programmer, Epic Games: "Verse - a new
+  functional-logic language"
+
+* Thomas Gazagnaire, Chief Technology Officer and co-founder, Tarides:
+  "Talk title to be announced"
+
+== VENUE AND REGISTRATION ==
+
+The symposium will be held physically on one of University of
+Copenhagen campuses from the 31st of August to the 2nd of September to
+provide a stimulating interactive environment for developing,
+presenting, exchanging and discussing informal ideas, work in progress
+and publication-ripe results. We plan to record and/or stream talks
+online as well; physical participation is prioritized and highly
+encouraged, however.
+
+For registration and fees, please consult the symposium web site at
+https://ifl22.github.io/ . Please notice that the early registration
+date is August 14, 2022 (AoE).
+
+== ACCEPTED PAPERS ==
+
+* Asynchronous Shared Data Sources. Mart Lubbers, Haye Böhm, Pieter
+  Koopman and Rinus Plasmeijer.
+
+* Heuristics-based Type Error Diagnosis for Haskell: the case of type
+  families. Niels Kwadijk and Jurriaan Hage.
+
+* Verified Technology Mapping in an Agda DSL for Circuit Design. João
+  Paulo Pizani Flor and Wouter Swierstra.
+
+* Creating Interactive Visualizations of TopHat Programs. Mark
+  Gerarts, Marc de Hoog, Nico Naus and Tim Steenvoorden.
+
+* An SQL Frontend on top of OCaml for Data Analysis. Yan Dong, Yahui
+  Song and Wei-Ngan Chin.
+
+* A Structure Editor with Type-Safe Copy/Paste. Hans Hüttel,
+  Christoffer Lind Andersen, Nana Gjerulf Sandberg, Anja Elisasen
+  Lumholtz Nielsen and Peter Mikkelsen.
+
+* How to fold and color a map: Comparing Use-Cases of Tree-Fold vs
+  Fold-Left. Jim Newton.
+
+* Compiling a functional array language with non-semantic memory
+  information. Philip Munksgaard, Cosmin Oancea and Troels Henriksen.
+
+* Systems of partial values and their applications in Haskell. Natasha
+  England-Elbro.
+
+* First-Class Data Types in Shallow Embedded Domain-Specific Languages
+  using Metaprogramming. Mart Lubbers, Pieter Koopman and Rinus
+  Plasmeijer.
+
+* Set-theoretic Types for Erlang. Albert Schimpf, Stefan Wehr and
+  Annette Bieniusa.
+
+* Strongly-Typed Multi-View Stack-Based Computations. Pieter Koopman
+  and Mart Lubbers.
+
+* Ztrategic: Strategic Programming with Zippers. José Nuno Macedo,
+  Emanuel Rodrigues, Marcos Viera and João Saraiva.
+
+* Higher-ranked region inference for polymorphic, lazy languages. Ivo
+  Gabe de Wolff and Jurriaan Hage.
+
+* Jeopardy: An invertible functional programming language. Joachim
+  Kristensen, Robin Kaarsgaard and Michael Kirkedal Thomsen.
+
+* The Foil: Capture-Avoiding Substitution With No Sharp Edges. Dougal
+  Maclaurin, Alexey Radul and Adam Paszke.
+
+* Verified Causal Broadcast with Liquid Haskell. Patrick Redmond, Gan
+  Shen, Niki Vazou and Lindsey Kuper.
+
+* Towards Inversion of Tail-recursive Term Rewriting Systems. Maria
+  Bendix Mikkelsen, Robert Glück and Maja Hanne Kirkeby.
+
+* A Confluence and Termination Checker for Haskell Rewrite
+  Rules. Makoto Hamana.
+
+* On Generating Out-Of-Core GPU Code for Multi-Dimensional Array
+  Operations. Patrick van Beurden and Sven-Bodo Scholz.
+
+* Compiling Haskell for Energy Efficiency: Analysis of Individual
+  Transformations. Bernardo Santos, João Fernandes, Maja Kirkeby and
+  Alberto Pardo.
+
+== POST-SYMPOSIUM PEER-REVIEW ==
+
+Following IFL tradition, IFL 2022 will use a post-symposium review
+process to produce the formal proceedings.
+
+Before the symposium authors submit draft papers. These draft papers
+will be screened by the program chair to make sure that they are
+within the scope of IFL. The draft papers will be made available to
+all participants at the symposium. Each draft paper is presented by
+one of the authors at the symposium. Notice that it is a requirement
+that draft papers that are accepted for presentation are presented
+physically at the symposium.
+
+After the symposium every presenter is invited to submit a full paper,
+incorporating feedback from discussions at the symposium. Work
+submitted to IFL may not be simultaneously submitted to other venues;
+submissions must adhere to ACM SIGPLAN's republication policy. The
+program committee will evaluate these submissions according to their
+correctness, novelty, originality, relevance, significance, and
+clarity, and will thereby determine whether the paper is accepted or
+rejected for the formal proceedings. Papers that are accepted for the
+formal proceedings are published in the International Conference
+Proceedings Series of the ACM Digital Library, as in previous years.
+
+More information about the submission and reviewing process, including
+topics of interests is available from the symposium web site.
+
+== PETER LANDIN PRIZE ==
+
+The Peter Landin Prize is awarded to the best paper presented at the
+symposium every year. The honored article is selected by the program
+committee based on the submissions received for the formal review
+process. The prize carries a cash award equivalent to 150 Euros.
+
+== DATES ==
+
+Submission deadline of draft papers   August 8th, 2022 (EXPIRED)
+Notification of acceptance            August 9th, 2022 (EXPIRED)
+Early registration deadline           August 14th, 2022 (AoE)
+Late registration deadline            September 1st, 2022
+IFL Symposium                         August 31st - September 2nd, 2022
+
+== SPONSORS ==
+
+IFL 2022 is financially supported by Meta (Silver sponsor), Well-typed
+(Bronze sponsor), Funktionelle Københavnere (Bronze sponsor), and
+University of Copenhagen (legally responsible sponsor).
+
+== ORGANISATION ==
+
+General chair         Fritz Henglein, University of Copenhagen
+Program chair         Martin Elsman, University of Copenhagen
+Communications chair  Troels Henriksen, University of Copenhagen
+
+== PROGRAM COMMITTEE ==
+
+Laura M. Castro       Universidade da Coruña, Spain
+David Christiansen    Haskell Foundation
+Martin Elsman         University of Copenhagen, Denmark (chair)
+Matthew Fluet         Rochester Institute of Technology, USA
+Clemens Grelck        Universiteit van Amsterdam, The Netherlands
+Zhenjiang Hu          Peking University, China
+Robin Kaarsgaard      University of Edinburgh, Scotland
+Gabriele Keller       Utrecht University, The Netherlands
+Oleg Kiselyov         Tohoku University, Japan
+Neil Mitchell         Facebook
+Stefan Monnier        Universite de Montreal, Canada
+Magnus Myreen         Chalmers University, Sweden
+Cyrus Omar            University of Michigan, USA
+Romain Péchoux        University of Lorraine, Inria, France
+Rinus Plasmeijer      Radboud University, The Netherlands
+Morten Rhiger         Roskilde University, Denmark
+Peter van Roy         Catholic University of Louvain, Belgium
+Olin Shivers          Northeastern University, USA
+Peter Thiemann        University of Freiburg, Germany
+Marcos Viera          Universidad de la República, Uruguay
+Meng Wang             University of Bristol, UK
