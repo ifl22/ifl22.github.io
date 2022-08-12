@@ -48,6 +48,10 @@ section {
     border: 2px solid transparent;
 }
 
+footer {
+    text-align: center;
+}
+
 section:target {
     border: 2px solid black;
 }
