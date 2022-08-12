@@ -26,10 +26,12 @@ h1::before {
 
 h2 {
     font-size: 22px;
+    clear: both;
 }
 
 h3 {
     font-size: 18px;
+    clear: both;
 }
 
 nav li {
@@ -42,6 +44,24 @@ nav a:visited, nav a {
     text-decoration: none;
     font-weight: bold;
     white-space: nowrap;
+}
+
+.speaker {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.speaker-institution {
+    font-style: italic;
+}
+
+.speaker-image {
+    width: 10em;
+    float: right;
+}
+
+footer {
+    text-align: center;
 }
 
 section {
@@ -76,4 +96,20 @@ h2 > a {
     vertical-align: 0.15em;
     margin-left: -0.36em;
     margin-right: -0.15em;
+}
+
+.horizontal-images {
+    text-align: center;
+}
+
+.horizontal-images > img {
+    padding-left: 2em;
+    padding-right: 2em;
+    width:  250px;
+    height: 166px;
+    object-fit: cover;
+}
+
+table {
+    margin-left: 2em;
 }
