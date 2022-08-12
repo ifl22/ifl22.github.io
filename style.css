@@ -30,6 +30,7 @@ h2 {
 
 h3 {
     font-size: 18px;
+    clear: both;
 }
 
 nav li {
@@ -44,12 +45,26 @@ nav a:visited, nav a {
     white-space: nowrap;
 }
 
-section {
-    border: 2px solid transparent;
+.speaker {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.speaker-institution {
+    font-style: italic;
+}
+
+.speaker-image {
+    width: 10em;
+    float: right;
 }
 
 footer {
     text-align: center;
+}
+
+section {
+    border: 2px solid transparent;
 }
 
 section:target {
