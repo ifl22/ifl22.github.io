@@ -97,3 +97,15 @@ h2 > a {
     margin-left: -0.36em;
     margin-right: -0.15em;
 }
+
+.horizontal-images {
+    text-align: center;
+}
+
+.horizontal-images > img {
+    padding-left: 1em;
+    padding-right: 1em;
+    width:  250px;
+    height: 166px;
+    object-fit: cover;
+}
