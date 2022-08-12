@@ -109,3 +109,7 @@ h2 > a {
     height: 166px;
     object-fit: cover;
 }
+
+table {
+    margin-left: 2em;
+}
