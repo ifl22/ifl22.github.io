@@ -103,8 +103,8 @@ h2 > a {
 }
 
 .horizontal-images > img {
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
     width:  250px;
     height: 166px;
     object-fit: cover;
