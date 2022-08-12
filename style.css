@@ -26,6 +26,7 @@ h1::before {
 
 h2 {
     font-size: 22px;
+    clear: both;
 }
 
 h3 {
