@@ -60,6 +60,30 @@ nav a:visited, nav a {
     float: right;
 }
 
+.talktitle {
+    font-size: 90%;
+    font-weight: bold;
+}
+
+.talkauthors {
+    font-size: 90%;
+    font-style: italic;
+}
+
+.talkauthors::before {
+    content: "\a";
+    white-space: pre;
+}
+
+.accepted {
+    font-size: 90%;
+}
+
+.date-caption {
+    font-size: 120%;
+    font-weight: bold;
+}
+
 footer {
     text-align: center;
 }

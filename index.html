@@ -62,9 +62,9 @@
       <table>
         <tbody><tr><td>Submission deadline of draft papers:</td><td>August 8th, 2022 (EXPIRED)</td></tr>
           <tr><td>Notification of acceptance for presentation:</td><td>August 9th, 2022 (EXPIRED)</td></tr>
-	  <tr><td>Early registration deadline:</td><td><b>August 15th, 2022 (AoE)</b></td></tr>
-	  <tr><td>Late registration deadline:</td><td>September 1st, 2022</td></tr>
-          <tr><td>IFL Symposium:</td><td>August 31st - September 2nd, 2022</td></tr>
+	  <tr><td>Early registration deadline:</td><td>August 15th, 2022 (EXPIRED)</td></tr>
+	  <tr><td>Late registration deadline:</td><td><b>September 1st, 2022</b></td></tr>
+          <tr><td>IFL Symposium:</td><td><b>August 31st - September 2nd, 2022</b></td></tr>
           <tr><td>Submission of papers for peer-reviewed proceedings:</td><td>December 5th, 2022 (to be confirmed)</td></tr>
           <tr><td>Notification of acceptance:</td><td>February 2nd, 2023 (to be confirmed)</td></tr>
           <tr><td>Camera-ready version:</td><td>March 14th, 2023 (to be confirmed)</td></tr>
@@ -77,7 +77,7 @@
 
       Were are pleased to announce the following keynote talks:
 
-      <h3>Title: Abstract machines and functional language implementation</h3>
+      <h3 id="peter">Keynote Title: Abstract machines and functional language implementation</h3>
       <span class="speaker-institution"><a href="http://www.itu.dk/people/sestoft/">Peter Sestoft, Professor, Head of Department</a>, <a href="https://en.itu.dk/">IT University of Copenhagen</a>.</span>
 
       <img class="speaker-image" src="images/petersestoft.jpg" alt="Image of Peter Sestoft"/>
@@ -99,14 +99,14 @@ excellent targets for (strict) functional languages also.
       the Computer Science Department at the IT University of
 Copenhagen.
 
-      <h3>Title: Verse - a new functional-logic language</h3>
+      <h3 id="lennart">Keynote Title: Verse - a new functional-logic language</h3>
       <span class="speaker-institution"><a href="https://www.linkedin.com/in/augustss/">Lennart Augustsson, Principal Programmer</a>, <a href="https://www.epicgames.com/site/en-US/home">Epic Games</a>.</span>
 
       <img class="speaker-image" src="images/lennart_augustsson.webp" alt="Image of Lennart Augustsson" />
 
       <p> TBA
 
-      <h3>Title: TBA</h3>
+      <h3 id="thomas">Keynote Title: TBA</h3>
       <span class="speaker-institution"><a href="https://gazagnaire.org/">Thomas Gazagnaire, Chief Technology Officer and co-founder</a>, <a href="https://tarides.com/">Tarides</a>.</span>
 
       <img class="speaker-image" src="images/thomas.jpg" alt="Image of Thomas Gazagnaire" />
@@ -121,39 +121,180 @@ Copenhagen.
       <p>The format of the programme is as follows:</p>
 
       <table>
-        <tbody><tr><td colspan="2"><b>Wednesday, August 31st</b></td></tr>
-	    <tr><td>09:00-12:00</td><td>Welcome, opening keynote, break, contributed talks</td></tr>
-          <tr><td>12:00-13:00</td><td>Lunch</td></tr>
-          <tr><td>13:00-16:00</td><td>Contributed talks, break, contributed talks</td></tr>
-	  <tr><td>16:00-17:00</td><td>Keynote</td></tr>
-          <tr><td>17:00-18:00</td><td>Welcome reception</td></tr>
-          <tr><td>18:00-xx:zz</td><td>Self-organized dinners</td></tr>
+        <tbody><tr><td colspan="2"><span class='date-caption'>Wednesday, August 31st</span></td></tr>
+	    <tr><td>08:30-08:55</td><td>Registration</td></tr>
+	    <tr><td>08:55-09:00</td><td>Welcome</td></tr>
+	    <tr><td valign='top' width='10%'>09:00-10:00</td><td>Keynote <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'><a href="#peter">Keynote Title: Abstract machines and functional language implementation</a></span>.
+ 	  	    <span class='talkauthors'>Peter Sestoft, Professor, Head of Department, IT University of Copenhagen</span>.
+		</li></ul>
+	    </td></tr>
+	    <tr><td>10:00-10:30</td><td>Break</td></tr>
+	    <tr><td valign='top' width='10%'>10:30-12:00</td><td>Session I (<i>Reversible computing and termination</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>Towards Inversion of Tail-recursive Term Rewriting Systems</span>.
+ 	  	    <span class='talkauthors'>Maria Bendix Mikkelsen, Robert Glück and Maja Hanne Kirkeby</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Jeopardy: An invertible functional programming language</span>.
+ 	  	    <span class='talkauthors'>Joachim Kristensen, Robin Kaarsgaard and Michael Kirkedal Thomsen</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>A Confluence and Termination Checker for Haskell Rewrite Rules</span>.
+ 	  	    <span class='talkauthors'>Makoto Hamana</span>.
+		  </li>
+                </ul>
+	    </td></tr>
+            <tr><td>12:00-13:30</td><td>Lunch</td></tr>
+            <tr><td valign='top'>13:30-15:00</td><td>Session II (<i>TYPES I</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>Heuristics-based Type Error Diagnosis for Haskell: the case of type families</span>.
+ 	  	    <span class='talkauthors'>Niels Kwadijk and Jurriaan Hage</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Verified Technology Mapping in an Agda DSL for Circuit Design</span>.
+ 	  	    <span class='talkauthors'>João Paulo Pizani Flor and Wouter Swierstra</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Verified Causal Broadcast with Liquid Haskell</span>.
+ 	  	    <span class='talkauthors'>Patrick Redmond, Gan Shen, Niki Vazou and Lindsey Kuper</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+	    <tr><td>15:00-15:30</td><td>Break</td></tr>
+  	    <tr><td valign='top'>15:30-17:00</td><td>Session III (<i>Compilation</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>The Foil: Capture-Avoiding Substitution With No Sharp Edges</span>.
+ 	  	    <span class='talkauthors'>Dougal Maclaurin, Alexey Radul and Adam Paszke</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>On Generating Out-Of-Core GPU Code for Multi-Dimensional Array Operations</span>.
+ 	  	    <span class='talkauthors'>Patrick van Beurden and Sven-Bodo Scholz</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Compiling Haskell for Energy Efficiency: Analysis of Individual Transformations</span>.
+ 	  	    <span class='talkauthors'>Bernardo Santos, João Fernandes, Maja Kirkeby and Alberto Pardo</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+            <tr><td>17:00-18:00</td><td>Welcome reception</td></tr>
+            <tr><td>18:00-xx:zz</td><td>Self-organized dinners</td></tr>
       </tbody></table>
 
       <table>
-        <tbody><tr><td colspan="2"><b>Thursday, September 1st</b></td></tr>
-          <tr><td>09:00-12:00</td><td>Contributed talks, break, contributed talks</td></tr>
-          <tr><td>12:00-13:00</td><td>Lunch</td></tr>
-	  <tr><td>14:00-18:00</td><td>Social event: Outing</td></tr>
-          <tr><td>18:00-21:00</td><td>Social event: Dinner</td></tr>
-	  <tr><td>21:00-xx:zz</td><td>Self-organized apres-dinner</td></tr>
+        <tbody><tr><td colspan="2"><span class='date-caption'>Thursday, September 1st</span></td></tr>
+	    <tr><td valign='top' width='10%'>09:00-10:00</td><td>Keynote <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'><a href="#thomas">Keynote Title: TBA</a></span>.
+ 	  	    <span class='talkauthors'>Thomas Gazagnaire, Chief Technology Officer and co-founder, Tarides</span>.
+		</li></ul>
+	    </td></tr>
+	    <tr><td>10:00-10:30</td><td>Break</td></tr>
+  	    <tr><td valign='top' width='10%'>10:30-12:00</td><td>Session IV (<i>Memory management</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>Compiling a functional array language with non-semantic memory information</span>.
+ 	  	    <span class='talkauthors'>Philip Munksgaard, Cosmin Oancea and Troels Henriksen</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Strongly-Typed Multi-View Stack-Based Computations</span>.
+ 	  	    <span class='talkauthors'>Pieter Koopman and Mart Lubbers</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Higher-ranked region inference for polymorphic, lazy languages</span>.
+ 	  	    <span class='talkauthors'>Ivo Gabe de Wolff and Jurriaan Hage</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+            <tr><td>12:00-13:30</td><td>Lunch</td></tr>
+            <tr><td valign='top'>13:30-15:00</td><td>Session V (<i>Editing, Visualization, and IFL Matters</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>A Structure Editor with Type-Safe Copy/Paste</span>.
+ 	  	    <span class='talkauthors'>Hans Hüttel, Christoffer Lind Andersen, Nana Gjerulf Sandberg, Anja Elisasen Lumholtz Nielsen and Peter Mikkelsen</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Creating Interactive Visualizations of TopHat Programs</span>.
+ 	  	    <span class='talkauthors'>Mark Gerarts, Marc de Hoog, Nico Naus and Tim Steenvoorden</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>IFL Matters</span>.
+ 	  	    <span class='talkauthors'>Presentation and discussion moderated by chairs</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+	    <tr><td>15:00-18:00</td><td>Social event: Outing</td></tr>
+            <tr><td>18:00-21:00</td><td>Social event: Dinner</td></tr>
+ 	    <tr><td>21:00-xx:zz</td><td>Self-organized apres-dinner</td></tr>
       </tbody></table>
 
       <table>
-        <tbody><tr><td colspan="2"><b>Friday, September 2nd</b></td></tr>
-          <tr><td>09:00-12:00</td><td>Contributed talks, break, contributed talks</td></tr>
-          <tr><td>12:00-13:00</td><td>Lunch</td></tr>
-          <tr><td>13:00-15:00</td><td>Contributed talks, break</td></tr>
-	  <tr><td>15:00-16:00</td><td>Industrial keynote</td></tr>
-          <tr><td>16:00-17:00</td><td>Industrial reception, good-bye</td></tr>
+        <tbody><tr><td colspan="2"><span class='date-caption'>Friday, September 2nd</span></td></tr>
+	    <tr><td valign='top' width='10%'>09:00-10:00</td><td>Session VI (<i>TYPES II</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>First-Class Data Types in Shallow Embedded Domain-Specific Languages using Metaprogramming</span>.
+ 	  	    <span class='talkauthors'>Mart Lubbers, Pieter Koopman and Rinus Plasmeijer</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Set-theoretic Types for Erlang</span>.
+ 	  	    <span class='talkauthors'>Albert Schimpf, Stefan Wehr and Annette Bieniusa</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+	    <tr><td>10:00-10:30</td><td>Break</td></tr>
+	    <tr><td valign='top'>10:30-12:00</td><td>Session VII (<i>Data transformation</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>How to fold and color a map: Comparing Use-Cases of Tree-Fold vs Fold-Left</span>.
+ 	  	    <span class='talkauthors'>Jim Newton</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Systems of partial values and their applications in Haskell</span>.
+ 	  	    <span class='talkauthors'>Natasha England-Elbro</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>Ztrategic: Strategic Programming with Zippers</span>.
+ 	  	    <span class='talkauthors'>José Nuno Macedo, Emanuel Rodrigues, Marcos Viera and João Saraiva</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+            <tr><td>12:00-13:30</td><td>Lunch</td></tr>
+            <tr><td valign='top'>13:30-14:30</td><td>Session VIII (<i>Data and analytics</i>) <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'>Asynchronous Shared Data Sources</span>.
+ 	  	    <span class='talkauthors'>Mart Lubbers, Haye Böhm, Pieter Koopman and Rinus Plasmeijer</span>.
+		  </li>
+		  <li>
+		    <span class='talktitle'>An SQL Frontend on top of OCaml for Data Analysis</span>.
+ 	  	    <span class='talkauthors'>Yan Dong, Yahui Song and Wei-Ngan Chin</span>.
+		  </li>
+		</ul>
+	    </td></tr>
+	    <tr><td>14:30-15:00</td><td>Break</td></tr>
+	    <tr><td valign='top' width='10%'>15:00-16:00</td><td>Industrial Keynote <br />
+		<ul>
+		  <li>
+		    <span class='talktitle'><a href="#lennart">Keynote Title: Verse - a new functional-logic language</a></span>.
+ 	  	    <span class='talkauthors'>Lennart Augustsson, Principal Programmer, Epic Games</span>.
+		</li></ul>
+	    </td></tr>
+            <tr><td>16:00-17:00</td><td>Industrial Reception, good-bye</td></tr>
         </tbody>
       </table>
-      Note that this is subject to minor changes.
+      Notice that the programme is subject to minor changes.
     </section>
 
     <section id="papers">
       <h2><a href="#papers">Accepted Papers</a></h2>
-<ul>
+<ul class="accepted">
 <li><b>Asynchronous Shared Data Sources.</b> <i>Mart Lubbers, Haye Böhm, Pieter Koopman and Rinus Plasmeijer.</i> </li>
 <li><b>Heuristics-based Type Error Diagnosis for Haskell: the case of type families.</b> <i>Niels Kwadijk and Jurriaan Hage.</i> </li>
 <li><b>Verified Technology Mapping in an Agda DSL for Circuit Design.</b> <i>João Paulo Pizani Flor and Wouter Swierstra.</i> </li>
